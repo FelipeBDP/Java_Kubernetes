@@ -1,4 +1,4 @@
-# Este é um projeto da Digital Innovation One 
+# Desafio Digital Innovation One
 
 # Tema: Java e Kubernetes
 
