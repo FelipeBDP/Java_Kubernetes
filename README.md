@@ -4,4 +4,4 @@
 
 O projeto foi apresentando pelo professor Sandro Giacom
 
-Todas as configurações necessárias para executar este projeot estão no arquivo config.
+Todas as configurações necessárias para executar este projeto estão no arquivo config.
